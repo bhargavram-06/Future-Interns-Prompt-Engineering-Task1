@@ -1,0 +1,11 @@
+Act as an expert AI Branding Specialist. Write website copy for "Apex AI Academy" based in Koormannapalem, Visakhapatnam. 
+
+**Business Info:** We teach Artificial Intelligence, Python, and Prompt Engineering to students. Our USP is "Learn by Doing" with real-world projects.
+
+**Please generate:**
+1. Homepage Hero: A catchy headline and a 2-line sub-headline.
+2. Three Service Cards: Each needs a title and a 1-sentence benefit.
+3. The "Why Koormannapalem?" Section: 2 sentences explaining why local students don't need to travel to city centers for world-class AI training.
+4. A Call to Action: A button for "Join the Next Batch."
+
+**Rules:** Use a modern, tech-savvy tone. Avoid using the word "Welcome."
